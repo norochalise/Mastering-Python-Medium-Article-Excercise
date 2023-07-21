@@ -1,6 +1,6 @@
 # Mastering Python: A Comprehensive Guide for Aspiring Data Scientists
 
-This repository contains the Jupyter Notebook used in the accompanying Medium article titled 'Mastering Python: A Comprehensive Guide for Aspiring Data Scientists. 
+This repository contains the Jupyter Notebook used in the accompanying Medium article titled [Mastering Python: A Comprehensive Guide for Aspiring Data Scientists](https://norochalise.medium.com/5ec6f9a0e1de). 
 
 The article and this notebook serve as an introduction to Python for those who are just starting in data science. It covers a variety of fundamental topics, from basic Python syntax to complex concepts such as loops, functions, exception handling, and more. 
 
