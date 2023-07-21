@@ -28,4 +28,4 @@ We hope this repository and the accompanying article serve as valuable resources
 
 ## Article Link:
 
-[Mastering Python: A Comprehensive Guide for Aspiring Data Scientists](MediumArticleLink)
+[Mastering Python: A Comprehensive Guide for Aspiring Data Scientists]([MediumArticleLink](https://norochalise.medium.com/5ec6f9a0e1de)https://norochalise.medium.com/5ec6f9a0e1de)
